@@ -1,0 +1,82 @@
+/*
+* Resume v0.1
+* Copyright 2017 - forever Arjun Singh
+* Released under a MIT license
+* Influenced by Wing.
+* See usewing.ml
+*/
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700,800,900|Roboto');
+
+/* Set BODY background colour */
+body{
+  background-color: #fdf5eb
+}
+
+/* Set paragraph FONT properties */
+body {
+  color: black;
+  line-height: 1.15;
+  font-size: 1.2rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  margin-left: 2rem;
+}
+
+/* Set header FONT properties */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* Specific FONT propeties */
+p {
+  margin-top: auto;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 3.5rem;
+  font-weight: 800;
+}
+
+h2 {
+  font-size: 3rem;
+  font-weight: 800;
+}
+
+h3 {
+  font-size: 2.5rem;
+  font-weight: 800;
+}
+
+h4 {
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+h5 {
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+
+h6 {
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+/* LINK */
+a {
+  color: #6200EA;
+}
+
+a:hover {
+  color: #536DFE;
+  cursor: pointer;
+}
+
+/* IMAGE */
+img {
+  margin-top: auto;
+  margin-bottom: 1rem;
+}
